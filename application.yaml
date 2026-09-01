@@ -14,7 +14,7 @@ spring:
   cloud:
     bus:
       enabled: true
-#  application: 각자가 가지고있으니
+#  application: 각자가 가지고있으니...
 #    name: member-service
   data:
     redis:
